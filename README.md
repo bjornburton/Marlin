@@ -1,5 +1,5 @@
 1.1.9 slightly tweaked for FlyingBear P905H, Dual Z motor, Single Extruder, precision pin-switch Z-home, float-glass bed, K-Type Thermocouple into E3D converter into A11, Titanium heat-break in Flying bear cold-side with high-temp copper block (C18000 copper?). 
-Many values initial lifted from 1.1.0-RC8 that shipped on the P905H.
+Many values initialy lifted from 1.1.0-RC8 that shipped on the P905H.
 
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
