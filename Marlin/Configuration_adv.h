@@ -1491,7 +1491,7 @@
   //#define USER_SCRIPT_RETURN  // Return to status screen after a script
 
   #define USER_DESC_1 "Home & Tramm"
-  #define USER_GCODE_1 "G28\nG01 X110 Y110 Z0.1\nM18 X Y"
+  #define USER_GCODE_1 "G28\nG01 Z5\nG01 X110 Y110\nG01 Z0.1\nM18 X Y"
 
   //#define USER_DESC_1 "Home & UBL Info"
   //#define USER_GCODE_1 "G28\nG29 W"
